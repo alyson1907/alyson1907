@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alyson1907@gmail.com)](mailto:alyson1907@gmail.com)
 
 
-I'm a **Full-Stack** developer currently working in **Campinas - Brazil**
+I'm a **Full-Stack** developer currently working in **Campinas, SP - Brazil**
 
 ## About me 
 
